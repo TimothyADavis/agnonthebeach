@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+  "name": "AGN on the Beach",
+  "background_color": "#000",
+  "theme_color": "#00a880",
+  "start_url": "/",
+  "display": "standalone",
+  "description": "AGN on the Beach: The many facets of fuelling and feedback in jetted AGN",
+  "icons": [{
+    "src": "/assets/images/live.svg",
+    "sizes":"any",
+    "type": "image/svg+xml"
+  }]
+}

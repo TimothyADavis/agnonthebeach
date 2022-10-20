@@ -1,0 +1,41 @@
+days:
+- name: Monday
+  abbr: Mo
+  date: 2023-09-10
+  rooms:
+  - name: Palazzo Santa Chiara
+    talks:
+      - name: Vim Impetus Placerat Cotidieque Ad
+        time_start: '12:00'
+        time_end: '12:45'
+      - name: Galaxies Are Great
+        time_start: '12:45'
+        time_end: '13:30'	
+      - name: Stars Are Great
+        time_start: '14:00'
+        time_end: '14:30'
+      - name: Stars Are Really Great
+        time_start: '14:30'
+        time_end: '15:00'		
+  - name: Tropea
+    talks:
+      - name: Lunch
+        time_start: '13:30'
+        time_end: '14:00'		  
+- name: Tuesday
+  abbr: Tu
+  date: 2023-07-04
+  rooms:	  
+  - name: Palazzo Santa Chiara
+    talks:
+      - name: Vim Impetus Placerat Cotidieque Ad
+        time_start: '12:00'
+        time_end: '12:45'
+      - name: Condimentum Vitae Sapien Pellentesque
+        time_start: '12:45'
+        time_end: '13:30'	
+  - name: Tropea
+    talks:
+      - name: Lunch
+        time_start: '13:30'
+        time_end: '14:00'		

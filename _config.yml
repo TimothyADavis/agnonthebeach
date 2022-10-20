@@ -1,0 +1,215 @@
+title: AGN on the Beach
+preposition: at
+description: >-
+  <h2>The many facets of fuelling and feedback in jetted AGN</h2><h6>10-15th September 2023, Tropea, Italy</h6>
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://agnatthebeach.space" # the base hostname & protocol for your site, e.g. https://example.com
+
+theme: jekyll-theme-conference
+
+# Build settings
+markdown: kramdown
+sass:
+  style: compressed
+
+# Additional exclude from processing
+exclude:
+  - .github/
+  - README.md
+  - LICENSE.md
+  - REDISTRIBUTED.md
+  - purgecss.config.js
+
+# Collections and their defaults
+collections:
+  talks:
+    output: false
+    permalink: /:collection/:title/
+  speakers:
+    output: false
+    permalink: /:collection/:title/
+  rooms:
+    output: true
+    permalink: /:collection/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+  - scope:
+      path: ""
+      type: speakers
+    values:
+      layout: speaker
+  - scope:
+      path: ""
+      type: rooms
+    values:
+      layout: room
+
+
+conference:
+
+  # Language
+  lang: en
+
+  # Show theme errors:
+  show_errors: True
+
+  # Navigation bar
+  navigation:
+    # logo:
+    #   name: AGN on the Beach
+    #   img:  simple_logo_agn.png
+      #url: 'https://digitale-gesellschaft.ch/'
+    links:
+      - name: Science
+        menu:
+         - name: Express Interest
+           disabled: False		 
+           relative_url: https://forms.gle/QRQNE66iAhQ38rcNA				
+         - name: Abstract Submission
+           disabled: true		
+         - name: Registration
+           disabled: true			      
+         - name: Talk List
+           disabled: true		 
+           relative_url: /talks/		   	
+         - name: Attendees
+           disabled: true
+           relative_url: /speakers/			   	
+      - name: Social
+        menu:
+        - name: Coming soon
+          relative_url: /program/
+          disabled: true	
+         # - name: Welcome Reception
+         #   relative_url: /welcome/
+         #   disabled: true
+         # - name: Conference Dinner
+         #   relative_url: /confdinner/
+         #   disabled: true	   	      		   
+      - name: Program
+        menu:
+         - name: Coming soon
+           relative_url: /program/
+           disabled: true					     		   
+      - name: Location
+        relative_url: /location/
+      - name: Code of Conduct
+        relative_url: /coc/
+      #- name: Previous Editions
+      #  menu:
+      #    - name: 2020 (current)
+      #      disabled: true
+      #    - name: 2019
+      #      relative_url: /2019/
+      #    - name: 2018
+      #      relative_url: /2018/
+
+  # Link Preview for Sharing
+  link_preview:
+    # also adapt "preposition" property at top for more meaningful descriptions
+    disable: false
+    img:
+      twitter: 'twitter_preview.png'      # inside /assets/images/
+      open_graph: 'facebook_preview.png'  # inside /assets/images/
+
+  # Main landing page
+  main:
+    links:
+      - name: Location
+        relative_url: /location/
+      - name: Express Interest
+        relative_url: https://forms.gle/QRQNE66iAhQ38rcNA		
+      - name: Abstract Submission
+        disabled: true
+        absolute_url: ''
+      - name: Registration
+        disabled: true
+        absolute_url: ''		
+
+  # Information boxes
+  # info_bars:
+  #   - title: Welcome to the Conference Theme for Jekyll!
+  #     color: primary
+  #     main_only: true
+  #     text: |
+  #       The Theme was originally made for the [Winterkongress](https://www.digitale-gesellschaft.ch/kongress/), a yearly conference of the [Digital Society Switzerland](https://digitale-gesellschaft.ch/).
+  #
+  #       ---
+  #
+  #       See the [README](github.com/DigitaleGesellschaft/jekyll-theme-conference/) on the project's GitHub repository for further information on how to configure and adapt it to your needs.
+  #   - text: This is just some random content for demonstration purposes.
+  #     color: warning
+  #     pages_only: true
+
+  # Live indications
+  live:
+    date: 01.01.2020
+    timezone: GMT+1
+    stop:       240  # in minutes
+    streaming:
+      enable: true
+      pause:     60  # in minutes
+      prepend:    5  # in minutes
+      extend:     5  # in minutes
+    demo:
+      enable: false
+      duration: 300  # in seconds
+      pause:     10  # in seconds
+
+  # map:
+  #   # Initial map center point
+  #   home_coord: 47.37808, 8.53935
+  #   # Alternative map providers can be found on https://leaflet-extras.github.io/leaflet-providers/preview/
+  #   # The following do match the Bootstrap design not too badly:
+  #   #   - Hydda.Full
+  #   #   - Thunderforest.Neighbourhood
+  #   #   - Esri.WorldTopoMap
+  #   map_provider: "OpenStreetMap.Mapnik"
+  #   default_zoom: 17
+  #.  51.4851,-3.1865
+  map:
+    default_zoom: 14
+    home_coord: 47.37785, 8.54035
+    map_provider: "OpenStreetMap.Mapnik"
+  talks:
+    # Talk categories
+    main_categories:
+      - name: Cat A
+        color: info
+      - name: Cat B
+        color: success
+      - name: Extragalactic
+        color: warning
+      - name: Stars
+        color: dark
+    # Hide icons on talk overview page
+    hide_icons: false
+
+  speakers:
+    # Show first and last name
+    show_firstname: true
+
+  location:
+    # Disable links to locations
+    hide: false
+    # URL of location / room overview page
+    url: '/location'
+    # Main page title shown on location/room navigation bar
+    navbar_title: 'Location'
+    # Show map on location main page
+    map: false
+
+  program:
+    # URL of program page
+    url: '/program'
+
+    # Time steps in program table
+    time_steps: 15 # in minutes
+
+    # Show intermediary time steps (next to full hours)
+    show_alltimes: true
