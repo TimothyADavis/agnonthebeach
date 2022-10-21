@@ -13,7 +13,7 @@ With the advent of next-generation telescopes (e.g. JWST, SKA, Athena), we are a
 
 - Gas replenishing mechanism(s) and the role of the large-scale environment
 - Fuelling processes on (sub-)kpc scales and jet powering mechanisms
-- Jet-induced feedback on galactic and extragalactic scales
+- Jet-induced feedback on circumgalactic and extragalactic scales
 - Jet-ISM interaction on (sub-)kpc scales (positive vs negative feedback)
 - AGN duty cycle
 
