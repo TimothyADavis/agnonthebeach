@@ -7,3 +7,4 @@ Tropea is a small village on the west coast of the region of Calabria, in southe
 
 
 <img src='/assets/images/tropea1.jpeg' width='50%'><img src='/assets/images/tropea2.jpeg' width='50%'>
+<img src='/assets/images/IMG_9815.JPG' width='50%'><img src='/assets/images/IMG_9816.JPG' width='50%'>
