@@ -24,7 +24,7 @@ days:
         time_end: '14:00'		  
 - name: Tuesday
   abbr: Tu
-  date: 2023-07-04
+  date: 2023-09-11
   rooms:	  
   - name: Palazzo Santa Chiara
     talks:
@@ -34,6 +34,9 @@ days:
       - name: Condimentum Vitae Sapien Pellentesque
         time_start: '12:45'
         time_end: '13:30'	
+      - name: Why Whiskey needs the "e"
+        time_start: '14:00'
+        time_end: '14:30'			
   - name: Tropea
     talks:
       - name: Lunch

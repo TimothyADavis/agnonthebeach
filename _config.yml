@@ -1,13 +1,18 @@
 title: AGN on the Beach
 preposition: at
+# description: >-
+#   <table style='border-collapse: collapse;'><tr><td style='vertical-align: top; padding: 0; margin: 0;'><img style='width: 450px' src='/assets/images/AGN_on_the_beach_Final_ver.png'></td><td width='50px'>&nbsp;</td><td style='padding: 0; margin: 0;'><h1>AGN on the Beach</h1><br><h2>The many facets of fuelling and feedback in jetted AGN</h2><h6>10-15th September 2023, Tropea, Italy</h6></td></tr></table>
 description: >-
   <h2>The many facets of fuelling and feedback in jetted AGN</h2><h6>10-15th September 2023, Tropea, Italy</h6>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://agnatthebeach.space" # the base hostname & protocol for your site, e.g. https://example.com
 
-#theme: jekyll-theme-conference
-remote_theme: "DigitaleGesellschaft/jekyll-theme-conference"
+theme: jekyll-theme-conference
+#remote_theme: "DigitaleGesellschaft/jekyll-theme-conference"
 
+plugins:
+  - jekyll-include-cache
+  
 # Build settings
 markdown: kramdown
 sass:
@@ -19,15 +24,16 @@ exclude:
   - README.md
   - LICENSE.md
   - REDISTRIBUTED.md
+  - pythoncode/
   - purgecss.config.js
 
 # Collections and their defaults
 collections:
   talks:
-    output: false
+    output: true
     permalink: /:collection/:title/
   speakers:
-    output: false
+    output: true
     permalink: /:collection/:title/
   rooms:
     output: true
@@ -55,10 +61,15 @@ conference:
 
   # Language
   lang: en
-
+  logo:
+      name: AGN on the Beach
+      img:  AGNOTB_logo_version_B.jpg
+  main:
+      logo:
+          name: AGN on the Beach
+          img:  AGNOTB_logo_version_B.jpg	  
   # Show theme errors:
   show_errors: True
-
   # Navigation bar
   navigation:
     # logo:
@@ -68,11 +79,12 @@ conference:
     links:
       - name: Science
         menu:
-         - name: Express Interest
-           disabled: False		 
-           relative_url: https://forms.gle/QRQNE66iAhQ38rcNA				
+         # - name: Express Interest
+         #   disabled: False
+         #   relative_url: https://forms.gle/QRQNE66iAhQ38rcNA			
          - name: Abstract Submission
-           disabled: true		
+           disabled: False		
+           absolute_url: 'https://forms.gle/xqE2MRDtQ5TuBEXk9'
          - name: Registration
            disabled: true			      
          - name: Talk List
@@ -83,15 +95,12 @@ conference:
            relative_url: /speakers/			   	
       - name: Social
         menu:
-        - name: Coming soon
-          relative_url: /program/
-          disabled: true	
+        - name: Social Program
+          relative_url: /socialprogram/
+          disabled: False	
          # - name: Welcome Reception
          #   relative_url: /welcome/
-         #   disabled: true
-         # - name: Conference Dinner
-         #   relative_url: /confdinner/
-         #   disabled: true	   	      		   
+         #   disabled: true 	      		   
       - name: Program
         menu:
          - name: Coming soon
@@ -123,11 +132,11 @@ conference:
     links:
       - name: Location
         relative_url: /location/
-      - name: Express Interest
-        relative_url: https://forms.gle/QRQNE66iAhQ38rcNA		
+      # - name: Express Interest
+      #   relative_url: https://forms.gle/QRQNE66iAhQ38rcNA
+      #   disabled: true
       - name: Abstract Submission
-        disabled: true
-        absolute_url: ''
+        absolute_url: 'https://forms.gle/xqE2MRDtQ5TuBEXk9'
       - name: Registration
         disabled: true
         absolute_url: ''		
@@ -149,17 +158,17 @@ conference:
 
   # Live indications
   live:
-    date: 01.01.2020
+    # date: 10.01.2020
     timezone: GMT+1
     stop:       240  # in minutes
     streaming:
-      enable: true
+      enable: false
       pause:     60  # in minutes
       prepend:    5  # in minutes
       extend:     5  # in minutes
     demo:
-      enable: false
-      duration: 300  # in seconds
+      enable: False
+      duration: 30  # in seconds
       pause:     10  # in seconds
 
   # map:
@@ -188,6 +197,8 @@ conference:
         color: warning
       - name: Stars
         color: dark
+      # - name: Talk
+      #   color: dark	
     # Hide icons on talk overview page
     hide_icons: false
 

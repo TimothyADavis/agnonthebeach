@@ -1,6 +1,6 @@
 ---
 layout: location
-image: Tropea-Italy-trimmed.jpg
+image: AOB_banner.jpg
 ---
 
 <!-- How to get to the conference

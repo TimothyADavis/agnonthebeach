@@ -1,20 +1,18 @@
 {% include partials/header.html %}
 
-  <div class="jumbotron">
-    <h1 class="display-3">
-      {% if site.conference.main.logo.img %}
-        <img src="{{ site.conference.main.logo.img | prepend: '/assets/images/' | prepend: site.baseurl }}" class="w-75 d-none d-md-inline" alt="{{ site.title }}" />
-        <img src="{{ site.conference.main.logo.img | prepend: '/assets/images/' | prepend: site.baseurl }}" class="w-100 d-md-none" alt="{{ site.title }}" />
+  <div class="jumbotron" style="margin-top: -30px; padding-top:40px">
+    <!-- <h1 class="display-3">
+      {% if site.conference.logo.img %}
+        <img src="{{ site.conference.logo.img | prepend: '/assets/images/' | prepend: site.baseurl }}" class="w-75 d-none d-md-inline" alt="{{ site.title }}" />
+        <img src="{{ site.conference.logo.img | prepend: '/assets/images/' | prepend: site.baseurl }}" class="w-100 d-md-none" alt="{{ site.title }}" />
       {% elsif page.title %}
         {{ page.title }}
       {% else %}
         {{ site.title }}
       {% endif %}
-    </h1>
+    </h1> -->
     {% if site.description != none %}
-      <p class="lead">
         {{ site.description | markdownify | replace: '<p>', '<p class="lead">' }}
-      </p>
     {% endif %}
 
     <hr class="my-4">
@@ -83,10 +81,11 @@
     {% endif %}
 
   </div>
-  <br>
+  <br>The AGN on the Beach team thank <a href="mailto:DaviesHM13@cardiff.ac.uk">Holly Davies</a> for logo design. The conference is put on with the support of:<p>
   <div style="text-align: center;">
     <img src="/assets/images/culogo.png" alt="" style="height: 100px">&nbsp;&nbsp;
 	<img src="/assets/images/Tropea-Stemma.gif" alt="" style="height: 100px">&nbsp;
+		<img src="/assets/images/LogoCST.png" alt="" style="height: 100px">&nbsp;
     <img src="/assets/images/inaf-fondo-trasparente.png" alt="" style="height: 100px">
   </div>
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-image: Tropea-Italy-trimmed.jpg
+image: AOB_banner.jpg
 ---
 
 <font size=10>Code of conduct</font>

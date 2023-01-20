@@ -1,6 +1,6 @@
 ---
 layout: home
-image: Tropea-Italy-trimmed.jpg
+image: AOB_banner.jpg
 ---
 
 <h2>Workshop Overview</h2>
@@ -17,23 +17,46 @@ With the advent of next-generation telescopes (e.g. JWST, SKA, Athena), we are a
 - Jet-ISM interaction on (sub-)kpc scales (positive vs negative feedback)
 - AGN duty cycle
 
+<h2>Confirmed invited speakers</h2>
+
+- Thaisa Storchi-Bergmann (UFRGS)
+- Judith Croston (OU)
+- Dipanjan Mukherjee (IUCAA)
+- Raffaella Morganti (ASTRON)
+- Francoise Combes (LERMA)
+- Chris Harrison (Newcastle University)  
+- Martin Bourne (Cambridge University)
+- Dominique Eckert (University of Geneva)
 
 <h2>Meeting Format</h2>
 
-The workshop will be hosted at the historic [Palazzo Santa Chiara](/rooms/Palazzo-Santa-Chiara/) in the centre of [Tropea](/rooms/Tropea/), with five days of scientific presentations and discussions. We aim to include long lunch breaks to allow you to relax, discuss, and explore the historic town and beautiful beaches with your colleagues. 
+The workshop will be hosted at the historic [Palazzo Santa Chiara](/rooms/Palazzo-Santa-Chiara/) in the centre of [Tropea](/rooms/Tropea/), with four full days and one half-day of scientific presentations and discussions. We aim to include some long lunch breaks to allow you to relax, discuss, and explore the historic town and beautiful beaches with your colleagues. A broad range of [social activities](/socialprogram/)  will be also offered, including a welcome reception on Sunday 10th September, the social dinner on Tuesday 12th September, and a choice of half-day excursions (either by land or by sea) on Wednesday 13th September.
 
-The workshop is limited to 70 attendees to enable effective discussion. We aim to make the workshop a safe space for all, and as such the meeting will have a [Code of Conduct](/coc/). Registering for the meeting signifies that you agree to abide by this code of conduct, and accept the sanctions within it may apply if you break it. 
+The workshop is limited to about 80 attendees to enable effective discussion. We aim to make the workshop a safe space for all, and as such the meeting will have a [Code of Conduct](/coc/). Registering for the meeting signifies that you agree to abide by this code of conduct, and accept the sanctions within it may apply if you break it. 
 
-The organisers are monitering the ongoing situation surrounding coronavirus, and will update the website with further information on the requirements regarding this as the workshop comes nearer. 
+The organisers are monitoring the ongoing situation surrounding coronavirus, and will update the website with further information on the requirements regarding this as the workshop comes nearer. 
+
 
 <h2>Registration and Abstract submission</h2>
 
-Abstract submission will open in due course. If you are interested in recieving our announcements when this happens, please express interest via the button at the bottom of this page. Abstract reviews will be conducted in a double-blind fashion to avoid unconcious biases. The full registration page will be opened shortly after the abstract deadline. 
+Abstract submission is now open. Full registration will be opened shortly after the abstract submission deadline, which is <b>23:59 UT on March 20th, 2023</b>. Abstract reviews will be conducted in a double-blind fashion to avoid unconcious biases. 
 
-Information on the conference fee will be provided soon on this website.<!-- of YYY euros. --> 
-We anticipate that the registration fee will cover use of the Venue, a Welcome reception on Sunday, coffee breaks, the conference dinner, and a bus transfer to/from the Lamezia Terme airport. 
+The regular registration fee is expected to be around <b>200 euros</b>, and we hope to be able to offer a reduced fee for students. 
+We anticipate that the registration fee will cover use of the venue, the costs of the welcome reception, coffee breaks, conference dinner, and the dedicated bus transfers to/from the Lamezia Terme airport. 
 
-The majority of the scientific programme will be based on submitted abstracts and is expected to be announced in early June.
+The majority of the scientific programme will be based on submitted abstracts and is expected to be announced in early May. The expectation is that conference speakers will deliver their talks in person. Remote talks will be considered only under exceptional circumstances. 
+
+Note that Tropea is a very popular tourist destination over the summer. We thus recommend thar interested participants plan their trip well in advance and reserve accomodation as soon as possible. A number of hotels in (or close to) the town centre offer special fares for workshop participants - full details can be found [here](/rooms/Tropea).
+
+<h2>Review Volume</h2>
+A special issue of the journal “Galaxies” focused on the topic of the workshop is now open for [submission](https://www.mdpi.com/journal/galaxies/special_issues/A034OQPK44). This Volume is intended to be an overview on the topic, collecting a small number of selected mini-reviews (of about 10 pages each). Attendees who would like to be selected for such a contribution are invited to contact the two co-editors of the Volume, Isabella Prandoni (isabella.prandoni@inaf.it) and Ilaria Ruffa (ruffai@cardiff.ac.uk).
+
+<h2>Important dates</h2>
+
+<li>January 20th, 2023 - Abstract submission opens</li>
+<li>March 20th, 2023 - Abstract submission deadline</li>
+<li>May 1st, 2023 - Program announcement, and registration opens</li>
+<li>September 11-15, 2023 - Meeting</li>
 
 <!-- <h2>Tweeting the Meeting</h2>
 
