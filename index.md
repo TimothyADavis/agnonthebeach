@@ -90,4 +90,4 @@ Nullam a nunc felis. Aenean nec metus sed elit feugiat elementum sed ut quam. Ma
   <li>Isabella Prandoni (INAF-IRA)</li>  
 </ul> 
 </td></tr></table>
-Stars (*) denote designated points of contact for all matters related to the code of conduct.
+Stars (*) denote designated points of contact for all matters related to the code of conduct. If you need to contact us about the conference please email <a href="mailto:loc@agnonthebeach.space">loc@agnonthebeach.space</a>.
