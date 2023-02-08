@@ -46,7 +46,7 @@ We anticipate that the registration fee will cover use of the venue, the costs o
 
 The majority of the scientific programme will be based on submitted abstracts and is expected to be announced in early May. The expectation is that conference speakers will deliver their talks in person. Remote talks will be considered only under exceptional circumstances. 
 
-Note that Tropea is a very popular tourist destination over the summer. We thus recommend thar interested participants plan their trip well in advance and reserve accomodation as soon as possible. A number of hotels in (or close to) the town centre offer special fares for workshop participants - full details can be found [here](/rooms/Tropea).
+Note that Tropea is a very popular tourist destination over the summer. We thus recommend that interested participants plan their trip well in advance and reserve accomodation as soon as possible. A number of hotels in (or close to) the town centre offer special fares for workshop participants - full details can be found [here](/rooms/Tropea).
 
 <h2>Review Volume</h2>
 A special issue of the journal “Galaxies” focused on the topic of the workshop is now open for [submission](https://www.mdpi.com/journal/galaxies/special_issues/A034OQPK44). This Volume is intended to provide an overview on the topic, collecting a small number of selected mini-reviews (of about 10 pages each). Attendees who would like to be selected for such a contribution are invited to contact the two co-editors of the Volume, Isabella Prandoni (isabella.prandoni@inaf.it) and Ilaria Ruffa (ruffai@cardiff.ac.uk).
