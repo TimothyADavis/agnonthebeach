@@ -35,4 +35,3 @@ An agreement has been made with a number of Hotels in (or close to) the town cen
 <li>B&B That’s Amore. Booking by CST TROPEA: (+39) 0963 61178, [info@csttropea.it](info@csttropea.it)
 <li>Palazzo Mottola, [https://palazzomottolatropea.com/](https://palazzomottolatropea.com/). Booking by CST TROPEA: (+39) 0963 61178, [info@csttropea.it](info@csttropea.it)
 <li>Hotel La Dolce Vita, [https://www.ladolcevitatropea.it/](https://www.ladolcevitatropea.it/). Booking by CST TROPEA: (+39) 0963 61178, [info@csttropea.it](info@csttropea.it)
-
