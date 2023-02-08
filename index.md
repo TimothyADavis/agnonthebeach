@@ -85,7 +85,8 @@ Nullam a nunc felis. Aenean nec metus sed elit feugiat elementum sed ut quam. Ma
   <li>Marisa Brienza (INAF-OAS)</li>
   <li>Timothy Davis (Cardiff University)</li>
   <li>Quirino D'Amato (SISSA)</li>
-  <li>Jacob Elford (Cardiff University)</li>  
+  <li>Jacob Elford (Cardiff University)</li>
+  <li>Ana Jimenez-Gallardo (University of Bologna)</li>
   <li>Filippo Maccagni (ASTRON)</li>  
   <li>Isabella Prandoni (INAF-IRA)</li>  
 </ul> 
