@@ -31,7 +31,7 @@ An agreement has been made with a number of Hotels in (or close to) the town cen
 - Hotel Solmaris, [https://solmaristropea.com/](https://solmaristropea.com/). Promo code: CST92023
 - Hotel Valemare, [https://www.hotelvalemare.it/](https://www.hotelvalemare.it/). Promo code: CST TROPEA
 - Hotel La Perla, [https://www.laperlatropea.com/](https://www.laperlatropea.com/). Promo code: CST TROPEA
-- B&B Townhouse, [https://www.townhousetropea.com/](https://www.townhousetropea.com/). Promo code: Cst Tropea<
+- B&B Townhouse, [https://www.townhousetropea.com/](https://www.townhousetropea.com/). Promo code: Cst Tropea
 - B&B That’s Amore. Booking by CST TROPEA: (+39) 0963 61178, [info@csttropea.it](info@csttropea.it)
 - Palazzo Mottola, [https://palazzomottolatropea.com/](https://palazzomottolatropea.com/). Booking by CST TROPEA: (+39) 0963 61178, [info@csttropea.it](info@csttropea.it)
 - Hotel La Dolce Vita, [https://www.ladolcevitatropea.it/](https://www.ladolcevitatropea.it/). Booking by CST TROPEA: (+39) 0963 61178, [info@csttropea.it](info@csttropea.it)
