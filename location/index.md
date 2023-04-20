@@ -24,14 +24,14 @@ Tropea has a small railway station, located at walkable distance to the town cen
 A modern motorway, called the "Motorway of the Mediterranean" (ex A3), allows you to get close to Tropea from any Italian and international city. The motorway exit nearest to Tropea is "Pizzo Calabro", located  about 35 km North.
 
 ### Hotels
-An agreement has been made with a number of Hotels in (or close to) the town centre, offering special fares for the workshop participants. The full list, together with the relative promo codes, is provided in the following:
+An agreement has been made with a number of Hotels in (or close to) the town centre, offering special fares for the workshop participants. The full list of Hotels is provided in the following. If you are interested in one of the proposed options, please email [loc@agnonthebeach.space](loc@agnonthebeach.space) to get the relative promo code.
 
-- Hotel Tropis,[https://tropis.it/](https://tropis.it/). Promo Code: CST
-- Hotel SUI Generis, [https://suigeneristropea.it/](https://suigeneristropea.it/). Promo code: SEPTEMBER23
-- Hotel Solmaris, [https://solmaristropea.com/](https://solmaristropea.com/). Promo code: CST92023
-- Hotel Valemare, [https://www.hotelvalemare.it/](https://www.hotelvalemare.it/). Promo code: CST TROPEA
-- Hotel La Perla, [https://www.laperlatropea.com/](https://www.laperlatropea.com/). Promo code: CST TROPEA
-- B&B Townhouse, [https://www.townhousetropea.com/](https://www.townhousetropea.com/). Promo code: Cst Tropea
-- B&B That’s Amore. Booking by CST TROPEA: (+39) 0963 61178, [info@csttropea.it](info@csttropea.it)
-- Palazzo Mottola, [https://palazzomottolatropea.com/](https://palazzomottolatropea.com/). Booking by CST TROPEA: (+39) 0963 61178, [info@csttropea.it](info@csttropea.it)
-- Hotel La Dolce Vita, [https://www.ladolcevitatropea.it/](https://www.ladolcevitatropea.it/). Booking by CST TROPEA: (+39) 0963 61178, [info@csttropea.it](info@csttropea.it)
+- Hotel Tropis,[https://tropis.it/](https://tropis.it/).
+- Hotel SUI Generis, [https://suigeneristropea.it/](https://suigeneristropea.it/). 
+- Hotel Solmaris, [https://solmaristropea.com/](https://solmaristropea.com/). 
+- Hotel Valemare, [https://www.hotelvalemare.it/](https://www.hotelvalemare.it/). 
+- Hotel La Perla, [https://www.laperlatropea.com/](https://www.laperlatropea.com/). 
+- B&B Townhouse, [https://www.townhousetropea.com/](https://www.townhousetropea.com/). 
+- B&B That’s Amore. 
+- Palazzo Mottola, [https://palazzomottolatropea.com/](https://palazzomottolatropea.com/). 
+- Hotel La Dolce Vita, [https://www.ladolcevitatropea.it/](https://www.ladolcevitatropea.it/).
