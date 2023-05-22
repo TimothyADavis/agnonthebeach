@@ -46,16 +46,16 @@ We anticipate that the registration fee will cover use of the venue, the costs o
 
 The scientific programme has been chosen based on submitted abstracts, and full details will be included here once all speakers are confirmed. The expectation is that conference speakers will deliver their talks in person. Remote talks will be considered only under exceptional circumstances. 
 
-Note that Tropea is a very popular tourist destination over the summer. We thus recommend thar interested participants plan their trip well in advance and reserve accomodation as soon as possible. A number of hotels in (or close to) the town centre offer special fares for workshop participants - full details can be found [here](/rooms/Tropea).
+Note that Tropea is a very popular tourist destination over the summer. We thus recommend that interested participants plan their trip well in advance and reserve accomodation as soon as possible. A number of hotels in (or close to) the town centre offer special fares for workshop participants - full details can be found [here](/rooms/Tropea).
 
 <h2>Review Volume</h2>
-A special issue of the journal “Galaxies” focused on the topic of the workshop is now open for [submission](https://www.mdpi.com/journal/galaxies/special_issues/A034OQPK44). This Volume is intended to be an overview on the topic, collecting a small number of selected mini-reviews (of about 10 pages each). Attendees who would like to be selected for such a contribution are invited to contact the two co-editors of the Volume, Isabella Prandoni (isabella.prandoni@inaf.it) and Ilaria Ruffa (ruffai@cardiff.ac.uk).
+A special issue of the journal “Galaxies” focused on the topic of the workshop is now open for [submission](https://www.mdpi.com/journal/galaxies/special_issues/A034OQPK44). This Volume is intended to provide an overview on the topic, collecting a small number of selected mini-reviews (of about 10 pages each). Attendees who would like to be selected for such a contribution are invited to contact the two co-editors of the Volume, Isabella Prandoni (isabella.prandoni@inaf.it) and Ilaria Ruffa (ruffai@cardiff.ac.uk).
 
 <h2>Important dates</h2>
 
+<li><s>March 14th, 2023 - Participants informed</s></li>
 <li><s>January 20th, 2023 - Abstract submission opens</s></li>
 <li><s>March 20th, 2023 - Abstract submission deadline</s></li>
-<li><s>March 14th, 2023 - Participants informed</s></li>
 <li>May 22nd, 2023 - Registration opens</li>
 <li>September 11-15, 2023 - Meeting</li>
 
@@ -86,7 +86,8 @@ Nullam a nunc felis. Aenean nec metus sed elit feugiat elementum sed ut quam. Ma
   <li>Marisa Brienza (INAF-OAS)</li>
   <li>Timothy Davis (Cardiff University)</li>
   <li>Quirino D'Amato (SISSA)</li>
-  <li>Jacob Elford (Cardiff University)</li>  
+  <li>Jacob Elford (Cardiff University)</li>
+  <li>Ana Jimenez-Gallardo (University of Bologna)</li>
   <li>Filippo Maccagni (ASTRON)</li>  
   <li>Isabella Prandoni (INAF-IRA)</li>  
 </ul> 
