@@ -39,12 +39,12 @@ The organisers are monitoring the ongoing situation surrounding coronavirus, and
 
 <h2>Registration and Abstract submission</h2>
 
-Abstract submission is now open. Full registration will be opened shortly after the abstract submission deadline, which is <b>23:59 UT on March 20th, 2023</b>. Abstract reviews will be conducted in a double-blind fashion to avoid unconcious biases. 
+Abstract submission is now closed, and participants should have recieved communications from us with the outcome of their application. Registration for accepted participants is now [open](https://forms.gle/7GfURmJWCWEJGHnc9).
 
-The regular registration fee is expected to be around <b>200 euros</b>, and we hope to be able to offer a reduced fee for students. 
+The regular registration fee is expected to be around <b>200 euros</b>, and we hope to be able to offer a reduced fee for students. Once this is confirmed registration payment will be open via CST Tropea.
 We anticipate that the registration fee will cover use of the venue, the costs of the welcome reception, coffee breaks, conference dinner, and the dedicated bus transfers to/from the Lamezia Terme airport. 
 
-The majority of the scientific programme will be based on submitted abstracts and is expected to be announced in early May. The expectation is that conference speakers will deliver their talks in person. Remote talks will be considered only under exceptional circumstances. 
+The scientific programme has been chosen based on submitted abstracts, and full details will be included here once all speakers are confirmed. The expectation is that conference speakers will deliver their talks in person. Remote talks will be considered only under exceptional circumstances. 
 
 Note that Tropea is a very popular tourist destination over the summer. We thus recommend thar interested participants plan their trip well in advance and reserve accomodation as soon as possible. A number of hotels in (or close to) the town centre offer special fares for workshop participants - full details can be found [here](/rooms/Tropea).
 
@@ -53,9 +53,10 @@ A special issue of the journal “Galaxies” focused on the topic of the worksh
 
 <h2>Important dates</h2>
 
-<li>January 20th, 2023 - Abstract submission opens</li>
-<li>March 20th, 2023 - Abstract submission deadline</li>
-<li>May 1st, 2023 - Program announcement, and registration opens</li>
+<li><s>January 20th, 2023 - Abstract submission opens</s></li>
+<li><s>March 20th, 2023 - Abstract submission deadline</s></li>
+<li><s>March 14th, 2023 - Participants informed</s></li>
+<li>May 22nd, 2023 - Registration opens</li>
 <li>September 11-15, 2023 - Meeting</li>
 
 <!-- <h2>Tweeting the Meeting</h2>

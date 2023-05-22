@@ -7,7 +7,7 @@ description: >-
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://agnatthebeach.space" # the base hostname & protocol for your site, e.g. https://example.com
 
-#theme: jekyll-theme-conference
+theme: jekyll-theme-conference
 remote_theme: "DigitaleGesellschaft/jekyll-theme-conference"
 
 plugins:
@@ -82,11 +82,12 @@ conference:
          # - name: Express Interest
          #   disabled: False
          #   relative_url: https://forms.gle/QRQNE66iAhQ38rcNA			
-         - name: Abstract Submission
-           disabled: False		
-           absolute_url: 'https://forms.gle/xqE2MRDtQ5TuBEXk9'
+         # - name: Abstract Submission
+         #   disabled: True
+         #   absolute_url: 'https://forms.gle/xqE2MRDtQ5TuBEXk9'
          - name: Registration
-           disabled: true			      
+           disabled: False
+           absolute_url: 'https://forms.gle/7GfURmJWCWEJGHnc9'			      
          - name: Talk List
            disabled: true		 
            relative_url: /talks/		   	
@@ -135,11 +136,11 @@ conference:
       # - name: Express Interest
       #   relative_url: https://forms.gle/QRQNE66iAhQ38rcNA
       #   disabled: true
-      - name: Abstract Submission
-        absolute_url: 'https://forms.gle/xqE2MRDtQ5TuBEXk9'
+      # - name: Abstract Submission
+      #   absolute_url: 'https://forms.gle/xqE2MRDtQ5TuBEXk9'
       - name: Registration
-        disabled: true
-        absolute_url: ''		
+        disabled: False
+        absolute_url: 'https://forms.gle/7GfURmJWCWEJGHnc9'		
 
   # Information boxes
   # info_bars:
