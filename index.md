@@ -32,7 +32,7 @@ With the advent of next-generation telescopes (e.g. JWST, SKA, Athena), we are a
 
 The workshop will be hosted at the historic [Palazzo Santa Chiara](/rooms/Palazzo-Santa-Chiara/) in the centre of [Tropea](/rooms/Tropea/), with four full days and one half-day of scientific presentations and discussions. We aim to include some long lunch breaks to allow you to relax, discuss, and explore the historic town and beautiful beaches with your colleagues. A broad range of [social activities](/socialprogram/)  will be also offered, including a welcome reception on Sunday 10th September, the social dinner on Tuesday 12th September, and a choice of half-day excursions (either by land or by sea) on Wednesday 13th September.
 
-The workshop is limited to about 80 attendees to enable effective discussion. We aim to make the workshop a safe space for all, and as such the meeting will have a [Code of Conduct](/coc/). Registering for the meeting signifies that you agree to abide by this code of conduct, and accept the sanctions within it may apply if you break it. 
+Due to the limited capaticy of the venue, the workshop is restricted to about 80 attendees. We aim to make the workshop a safe space for all, and as such the meeting will have a [Code of Conduct](/coc/). Registering for the meeting signifies that you agree to abide by this code of conduct, and accept the sanctions within it may apply if you break it. 
 
 The organisers are monitoring the ongoing situation surrounding coronavirus, and will update the website with further information on the requirements regarding this as the workshop comes nearer. 
 
@@ -41,7 +41,7 @@ The organisers are monitoring the ongoing situation surrounding coronavirus, and
 
 Abstract submission is now closed, and participants should have recieved communications from us with the outcome of their application. Registration for accepted participants is now [open](https://forms.gle/7GfURmJWCWEJGHnc9).
 
-The regular registration fee is expected to be around <b>200 euros</b>, and we hope to be able to offer a reduced fee for students. Once this is confirmed registration payment will be open via CST Tropea.
+The regular registration fee is expected to be around <b>200 euros</b>, and we offer a 50% reduced fee for students. A small number (5/6) of mini grants of about <b>300 euros</b> are also available upon request for participants (at any career stage) with very limited travel budget. Registration payments will open via CST Tropea after registration closure.
 We anticipate that the registration fee will cover use of the venue, the costs of the welcome reception, coffee breaks, conference dinner, and the dedicated bus transfers to/from the Lamezia Terme airport. 
 
 The scientific programme has been chosen based on submitted abstracts, and full details will be included here once all speakers are confirmed. The expectation is that conference speakers will deliver their talks in person. Remote talks will be considered only under exceptional circumstances. 
