@@ -57,7 +57,8 @@ A special issue of the journal “Galaxies” focused on the topic of the worksh
 <li><s>January 20th, 2023 - Abstract submission opens</s></li>
 <li><s>March 20th, 2023 - Abstract submission deadline</s></li>
 <li><s>May 15th, 2023 - Participants informed</s></li>
-<li>May 22nd, 2023 - Registration opens</li>
+<li><s>May 22nd, 2023 - Registration opens</s></li>
+<li>June 9th, 2023 - Registration closes</li>
 <li>September 11-15, 2023 - Meeting</li>
 
 <!-- <h2>Tweeting the Meeting</h2>
