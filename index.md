@@ -48,6 +48,9 @@ The scientific programme has been chosen based on submitted abstracts, and full 
 
 Note that Tropea is a very popular tourist destination over the summer. We thus recommend that interested participants plan their trip well in advance and reserve accomodation as soon as possible. A number of hotels in (or close to) the town centre offer special fares for workshop participants - full details can be found [here](/rooms/Tropea).
 
+<h2>Poster</h2>
+The official poster for the workshop (designed by <a href="mailto:BakerMK@cardiff.ac.uk">Maximilian Baker</a>) is avaliable to download [here](assets/images/AOB_poster_final.pdf).
+
 <h2>Review Volume</h2>
 A special issue of the journal “Galaxies” focused on the topic of the workshop is now open for [submission](https://www.mdpi.com/journal/galaxies/special_issues/A034OQPK44). This Volume is intended to provide an overview on the topic, collecting a small number of selected mini-reviews (of about 10 pages each). Attendees who would like to be selected for such a contribution are invited to contact the two co-editors of the Volume, Isabella Prandoni (isabella.prandoni@inaf.it) and Ilaria Ruffa (ruffai@cardiff.ac.uk).
 
