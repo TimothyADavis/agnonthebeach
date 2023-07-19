@@ -1,0 +1,332 @@
+days:
+- name: Monday
+  abbr: Mo
+  date: 2023-09-11
+  rooms:
+  - name: Palazzo Santa Chiara
+    talks:
+      - name: Intro
+        time_start: '09:00'
+        time_end: '09:10'
+      - name: Fuelling processes on (sub-)kpc scales
+        time_start: '09:10'
+        time_end: '09:40'
+      - name: On the origin of radio-loudness in active galactic nuclei using far-infrared polarimetric observations
+        time_start: '09:40'
+        time_end: '09:55'
+      - name: Observing AGN fuelling via molecular absorption lines
+        time_start: '09:55'
+        time_end: '10:10'
+      - name: The link between circumnuclear molecular gas reservoirs, millimetre continua and active galactic nucleus fuelling
+        time_start: '10:10'
+        time_end: '10:25'
+      - name: Flash Talks 1
+        time_start: '10:25'
+        time_end: '10:40'
+      - name: Long poster break
+        time_start: '10:40'
+        time_end: '11:20'
+      - name: Gas replenishing mechanism(s) and the role of the large-scale environment
+        time_start: '11:20'
+        time_end: '11:50'
+      - name: Mergers are the dominant trigger for high luminosity HERGs
+        time_start: '11:50'
+        time_end: '12:05'
+      - name: Fuelling AGN with galaxy interactions
+        time_start: '12:05'
+        time_end: '12:20'
+      - name: Discussion (Fuelling)
+        time_start: '12:20'
+        time_end: '13:00'
+      - name: Lunch
+        time_start: '13:00'
+        time_end: '14:30'
+      - name: Jet powering mechanisms and energetics
+        time_start: '14:30'
+        time_end: '15:00'
+      - name: Studying the link between radio galaxies and AGN fuelling with relativistic hydrodynamic simulations of flickering jets
+        time_start: '15:00'
+        time_end: '15:15'
+      - name: AGN on the Beach of X-ray Polarimetry
+        time_start: '15:15'
+        time_end: '15:30'
+      - name: Regular coffee break
+        time_start: '15:30'
+        time_end: '16:00'
+      - name: Spectacular 240 kpc double-sided relativistic jets in a spiral- hosted narrow-line Seyfert 1 galaxy
+        time_start: '16:00'
+        time_end: '16:15'
+      - name: The CosmoDRAGoN simulations; dynamics and radio observables for AGN jets in realistic environments
+        time_start: '16:15'
+        time_end: '16:30'
+      - name: The X-ray obscuration and the origin of the high-energy emission in young radio sources
+        time_start: '16:30'
+        time_end: '16:45'
+      - name: The z=6.18 radio quasar CFHQS J142952+544717 under Chandra X-ray lens
+        time_start: '16:45'
+        time_end: '17:00'
+      - name: Discussion (Jet formation and physics)
+        time_start: '17:00'
+        time_end: '17:40'
+  - name: Tropea
+    talks:
+      - name: Lunch
+        time_start: '13:00'
+        time_end: '14:30'
+- name: Tuesday
+  abbr: Tu
+  date: 2023-09-12
+  rooms:
+  - name: Palazzo Santa Chiara
+    talks:
+      - name: Jet feedback on (sub-)kpc scales
+        time_start: '09:00'
+        time_end: '09:30'
+      - name: Modelling observational aspects of jet feedback; ionization, emission, kinematics and polarization
+        time_start: '09:30'
+        time_end: '09:45'
+      - name: The ALMA view of the gas cycle in nearby AGN
+        time_start: '09:45'
+        time_end: '10:00'
+      - name: Kinetic outflow of Low Luminosity AGN; the PARSEC view
+        time_start: '10:00'
+        time_end: '10:15'
+      - name: Flash Talks 2
+        time_start: '10:15'
+        time_end: '10:45'
+      - name: Long poster break
+        time_start: '10:45'
+        time_end: '11:25'
+      - name: Evidence of Jet induced shocked ionized outflow at pc scale
+        time_start: '11:25'
+        time_end: '11:40'
+      - name: Jet-ISM interaction revealed by JWST/MIRI spectroscopy
+        time_start: '11:40'
+        time_end: '11:55'
+      - name: Elucidating the impact of galaxy substructure on black hole growth and AGN feedback
+        time_start: '11:55'
+        time_end: '12:10'
+      - name: Quasar winds modify the distribution of cold molecular gas and young stellar populations in the central kiloparsec of galaxies
+        time_start: '12:10'
+        time_end: '12:25'
+      - name: Extended forbidden high-ionisation gas as a signature of jet-driven outflows in AGN
+        time_start: '12:25'
+        time_end: '12:40'
+      - name: Feedback on ionised gas over the radio AGN life-cycle
+        time_start: '12:40'
+        time_end: '12:55'
+      - name: Signatures of jet-cloud interaction in radio-loud AGNs from MALS Data Release I (DR1) sample
+        time_start: '12:55'
+        time_end: '13:10'
+      - name: Lunch
+        time_start: '13:10'
+        time_end: '14:30'
+      - name: Jet-ISM interaction on galactic scales (positive vs negative feedback
+        time_start: '14:30'
+        time_end: '15:00'
+      - name: How do outflows from the AGN affect the star formation activity inside the host galaxy?
+        time_start: '15:00'
+        time_end: '15:15'
+      - name: Jet-driven star formation in kpc-scale infant radio sources
+        time_start: '15:15'
+        time_end: '15:30'
+      - name: Jet-induced molecular gas excitation and turbulence in the Teacup
+        time_start: '15:30'
+        time_end: '15:45'
+      - name: Regular coffee break
+        time_start: '15:45'
+        time_end: '16:15'
+      - name: AGN feedback from compact, low-power jets and galactic ionised outflows in the Teacup QSO; Properties, interplay and effects
+        time_start: '16:15'
+        time_end: '16:30'
+      - name: The impact of AGN activity in nearby Seyfert galaxies; high resolution study of the multiphase ISM
+        time_start: '16:30'
+        time_end: '16:45'
+      - name: Optical/radio view of large-scale galactic AGN-driven outflows
+        time_start: '16:45'
+        time_end: '17:00'
+      - name: Bubbles and outflows; the novel JWST/NIRSpec view of the z=1.59 quasar XID2028
+        time_start: '17:00'
+        time_end: '17:15'
+      - name: Discussion (Feedback; circumnuclear and galactic scales)
+        time_start: '17:15'
+        time_end: '18:00'
+      - name: Social Dinner ("Le Mura" Restaurant)
+        time_start: '20:00'
+        time_end: '22:00'
+  - name: Tropea
+    talks:
+      - name: Lunch
+        time_start: '13:00'
+        time_end: '14:30'
+- name: Wednesday
+  abbr: We
+  date: 2023-09-13
+  rooms:
+  - name: Palazzo Santa Chiara
+    talks:
+      - name: AGN duty cycle
+        time_start: '09:30'
+        time_end: '10:00'
+      - name: Automatic selection of restarted radio galaxies in the HETDEX field
+        time_start: '10:00'
+        time_end: '10:15'
+      - name: Restarting radio activity in a hard X-ray selected sample
+        time_start: '10:15'
+        time_end: '10:30'
+      - name: Searching for remnants among young radio sources
+        time_start: '10:30'
+        time_end: '10:45'
+      - name: Flash Talks 3
+        time_start: '10:45'
+        time_end: '10:55'
+      - name: Long poster break
+        time_start: '10:55'
+        time_end: '11:35'
+      - name: Using AGN incidences to probe properties of jet powering with eROSITA and LOFAR
+        time_start: '11:35'
+        time_end: '11:50'
+      - name: A Multi-frequency Analysis of the Timescales Associated with AGN Activity in a Jetted Green Bean Galaxy
+        time_start: '11:50'
+        time_end: '12:05'
+      - name: Radio observations of nearby X-ray and optically bright giant elliptical galaxies and their interaction with the intergalactic medium
+        time_start: '12:05'
+        time_end: '12:20'
+      - name: Constraining the AGN duty cycle in the galaxy cluster MS 0735.6+7421
+        time_start: '12:20'
+        time_end: '12:35'
+      - name: Discussion (Duty cycle)
+        time_start: '12:35'
+        time_end: '13:15'
+      - name: Free afternoon (excursions)
+        time_start: '13:15'
+        time_end: '17:00'
+  - name: Tropea
+    talks:
+      - name: Lunch
+        time_start: '13:00'
+        time_end: '14:30'
+- name: Thursday
+  abbr: Th
+  date: 2023-09-14
+  rooms:
+  - name: Palazzo Santa Chiara
+    talks:
+      - name: Galaxy groups as the ultimate probe of AGN feedback
+        time_start: '09:00'
+        time_end: '09:30'
+      - name: Inefficient jet-induced star formation in Centaurus A; Can shocks regulate star formation in the northern filaments?
+        time_start: '09:30'
+        time_end: '09:45'
+      - name: A Chandra-MUSE view of feedback in radio galaxies
+        time_start: '09:45'
+        time_end: '10:00'
+      - name: The MURALES project; a survey of 3C radio galaxies with MUSE
+        time_start: '10:00'
+        time_end: '10:15'
+      - name: Zooming into the Monster's Mouth; Tracing Feedback from Their Hosts to Circumgalactic Medium in z=3.5 Radio-loud AGN
+        time_start: '10:15'
+        time_end: '10:30'
+      - name: Regular cofee break
+        time_start: '10:30'
+        time_end: '11:00'
+      - name: Evolution of the AGN Feedback Cycle in Galaxy Clusters
+        time_start: '11:00'
+        time_end: '11:15'
+      - name: Investigating how feedback is onset; young radio galaxies at the center of cool core clusters
+        time_start: '11:15'
+        time_end: '11:30'
+      - name: Losing the feedback-feeding loop of the radio galaxy 3C 84
+        time_start: '11:30'
+        time_end: '11:45'
+      - name: Jet-entrainment in action; A massive (>30 kpc) ionized outflow in Hercules A
+        time_start: '11:45'
+        time_end: '12:00'
+      - name: LOFAR unveils an exceptional radio lobe-spiral galaxy encounter
+        time_start: '12:00'
+        time_end: '12:15'
+      - name: Radio galaxies interacting with gas motions in dense environments
+        time_start: '12:15'
+        time_end: '12:30'
+      - name: AGN feedback in galaxy groups; radio surveys insights on the lower-mass regime
+        time_start: '12:30'
+        time_end: '12:45'
+      - name: The J1030 field; AGN feedback in a young proto-cluster at z = 1.7 and in faint radio-galaxy populations
+        time_start: '12:45'
+        time_end: '13:00'
+      - name: Lunch
+        time_start: '13:00'
+        time_end: '14:30'
+      - name: Jet-induced feedback on circumgalactic and extragalactic scales; a theoretical perspective
+        time_start: '14:30'
+        time_end: '15:00'
+      - name: What can bent-jet radio galaxies teach us about their environment?
+        time_start: '15:00'
+        time_end: '15:15'
+      - name: AGN Feedback as Driver of Gas Sloshing in Galaxy Clusters; Evidence from MHD Simulations
+        time_start: '15:15'
+        time_end: '15:30'
+      - name: Regular cofee break
+        time_start: '15:30'
+        time_end: '16:00'
+      - name: Probing the impact of AGN feedback on gas distribution with SIMBA and IllustrisTNG simulations
+        time_start: '16:00'
+        time_end: '16:15'
+      - name: The enrichment of "fossil" radio electrons by multiple radio galaxies in clusters and in the cosmic web
+        time_start: '16:15'
+        time_end: '16:30'
+      - name: Discussion (Feedback; large scales and clusters)
+        time_start: '16:30'
+        time_end: '17:15'
+      - name: Aperitif at sunset on the Beach (location TBD)
+        time_start: '18:00'
+        time_end: '20:00'
+  - name: Tropea
+    talks:
+      - name: Lunch
+        time_start: '13:00'
+        time_end: '14:30'
+- name: Friday
+  abbr: Fr
+  date: 2023-09-15
+  rooms:
+  - name: Palazzo Santa Chiara
+    talks:
+      - name: The Quasar Feedback Survey; zooming into the core of radio emission
+        time_start: '09:30'
+        time_end: '09:45'
+      - name: The importance of feedback by low-luminosity radiatively efficient AGN
+        time_start: '09:45'
+        time_end: '10:00'
+      - name: The far-infrared to radio properties of the most luminous quasars
+        time_start: '10:00'
+        time_end: '10:15'
+      - name: Flash Talks 4
+        time_start: '10:15'
+        time_end: '10:35'
+      - name: Long poster break
+        time_start: '10:35'
+        time_end: '11:15'
+      - name: Black hole mass growth across cosmic time; Insights from the VLA-COSMOS survey
+        time_start: '11:15'
+        time_end: '11:30'
+      - name: The demographics of radio-AGN activity from LoTSS and SDSS
+        time_start: '11:30'
+        time_end: '11:45'
+      - name: Insights from Radio VLBI into the Central Engines of AGN feedback
+        time_start: '11:45'
+        time_end: '12:00'
+      - name: Cosmic evolution of jet-mode AGN feedback; discovery of a dominant new population at high-z
+        time_start: '12:00'
+        time_end: '12:15'
+      - name: Discussion (RQ AGN and evolutionary studies)
+        time_start: '12:15'
+        time_end: '12:55'
+      - name: Concluding Remarks
+        time_start: '12:55'
+        time_end: '13:15'
+  - name: Tropea
+    talks:
+      - name: Lunch
+        time_start: '13:00'
+        time_end: '14:30'

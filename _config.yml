@@ -85,28 +85,20 @@ conference:
          # - name: Abstract Submission
          #   disabled: True
          #   absolute_url: 'https://forms.gle/xqE2MRDtQ5TuBEXk9'
-         - name: Registration
-           disabled: False
-           absolute_url: 'https://forms.gle/7GfURmJWCWEJGHnc9'			      
+         # - name: Registration
+         #   disabled: False
+         #   absolute_url: 'https://forms.gle/7GfURmJWCWEJGHnc9'	
+         - name: Program
+           disabled: False		 
+           relative_url: /program/	   		 	      
          - name: Talk List
-           disabled: true		 
+           disabled: False		 
            relative_url: /talks/		   	
          - name: Attendees
-           disabled: true
+           disabled: False
            relative_url: /speakers/			   	
       - name: Social
-        menu:
-        - name: Social Program
-          relative_url: /socialprogram/
-          disabled: False	
-         # - name: Welcome Reception
-         #   relative_url: /welcome/
-         #   disabled: true 	      		   
-      - name: Program
-        menu:
-         - name: Coming soon
-           relative_url: /program/
-           disabled: true					     		   
+        relative_url: /socialprogram/
       - name: Location
         relative_url: /location/
       - name: Code of Conduct
@@ -190,16 +182,20 @@ conference:
   talks:
     # Talk categories
     main_categories:
-      - name: Cat A
+      - name: Fuelling
+        color: warning		
+      - name: Jet formation and physics
+        color: dark		
+      - name: Feedback (circumnuclear and galactic scales)
+        color: danger
+      - name: Duty cycle
         color: info
-      - name: Cat B
-        color: success
-      - name: Extragalactic
-        color: warning
-      - name: Stars
-        color: dark
-      # - name: Talk
-      #   color: dark	
+      - name: Feedback (large scales and clusters)
+        color: info
+      - name: RQ AGN and evolutionary studies
+        color: secondary	
+      - name: Conference
+        color: success								
     # Hide icons on talk overview page
     hide_icons: false
 
@@ -222,7 +218,7 @@ conference:
     url: '/program'
 
     # Time steps in program table
-    time_steps: 15 # in minutes
+    time_steps: 5 # in minutes
 
     # Show intermediary time steps (next to full hours)
-    show_alltimes: true
+    show_alltimes: True
