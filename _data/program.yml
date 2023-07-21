@@ -133,27 +133,30 @@ days:
       - name: Jet-driven star formation in kpc-scale infant radio sources
         time_start: '15:15'
         time_end: '15:30'
-      - name: Jet-induced molecular gas excitation and turbulence in the Teacup
+      - name: The importance of kpc-scale jet-induced outflows in local radio-intermediate AGN
         time_start: '15:30'
-        time_end: '15:45'
-      - name: Regular coffee break
+        time_end: '15:45'		
+      - name: Jet-induced molecular gas excitation and turbulence in the Teacup
         time_start: '15:45'
-        time_end: '16:15'
-      - name: AGN feedback from compact, low-power jets and galactic ionised outflows in the Teacup QSO; Properties, interplay and effects
-        time_start: '16:15'
+        time_end: '16:00'
+      - name: Regular coffee break
+        time_start: '16:00'
         time_end: '16:30'
-      - name: The impact of AGN activity in nearby Seyfert galaxies; high resolution study of the multiphase ISM
+      - name: AGN feedback from compact, low-power jets and galactic ionised outflows in the Teacup QSO; Properties, interplay and effects
         time_start: '16:30'
         time_end: '16:45'
-      - name: Optical/radio view of large-scale galactic AGN-driven outflows
+      - name: The impact of AGN activity in nearby Seyfert galaxies; high resolution study of the multiphase ISM
         time_start: '16:45'
         time_end: '17:00'
-      - name: Bubbles and outflows; the novel JWST/NIRSpec view of the z=1.59 quasar XID2028
+      - name: Optical/radio view of large-scale galactic AGN-driven outflows
         time_start: '17:00'
         time_end: '17:15'
-      - name: Discussion (Feedback; circumnuclear and galactic scales)
+      - name: Bubbles and outflows; the novel JWST/NIRSpec view of the z=1.59 quasar XID2028
         time_start: '17:15'
-        time_end: '18:00'
+        time_end: '17:30'
+      - name: Discussion (Feedback; circumnuclear and galactic scales)
+        time_start: '17:30'
+        time_end: '18:10'
   - name: Tropea
     talks:
       - name: Lunch
