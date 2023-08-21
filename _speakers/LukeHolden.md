@@ -1,6 +1,6 @@
 ---
-name: Luke R. Holden
-first_name: Luke R.
+name: Luke Holden
+first_name: Luke
 last_name: Holden
 ---
 

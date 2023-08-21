@@ -5,7 +5,7 @@ speakers:
   -  Filip Huško
   -  Luca Sala
 categories:
-  - Fuelling
+  - Fuelling <p> Jet formation and physics
 session_start: False
 ---
 

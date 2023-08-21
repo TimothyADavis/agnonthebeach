@@ -8,7 +8,7 @@ speakers:
   -   Iván E. Lopez
   -  Deovrat Prasad
 categories:
-  - Feedback (circumnuclear and galactic scales)
+  - Feedback
 session_start: False
 ---
 

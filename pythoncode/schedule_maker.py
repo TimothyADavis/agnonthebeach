@@ -1,6 +1,6 @@
 from astropy.table import Table
 
-t=Table.read("AOB_schedule.csv")
+t=Table.read("AOB_schedule_new.csv")
 
 rb='\n'
 for row in t:

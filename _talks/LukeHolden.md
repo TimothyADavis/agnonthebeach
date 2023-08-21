@@ -1,7 +1,7 @@
 ---
 name: The importance of kpc-scale jet-induced outflows in local radio-intermediate AGN
 speakers:
-  - Luke R. Holden
+  - Luke Holden
 categories:
   - Feedback (circumnuclear and galactic scales)
 session_start: False

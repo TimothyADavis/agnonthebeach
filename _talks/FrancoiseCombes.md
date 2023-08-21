@@ -4,7 +4,7 @@ speakers:
   - Francoise Combes
 categories:
   - Fuelling
-session_start: True
+session_start: False
 ---
 
 Since the 1970s, astronomers have struggled with the issue of how matter
