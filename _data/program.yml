@@ -20,13 +20,13 @@ days:
       - name: Fuelling processes on (sub-)kpc scales
         time_start: '09:10'
         time_end: '09:40'
-      - name: On the origin of radio-loudness in active galactic nuclei using far-infrared polarimetric observations
+      - name: Fuelling AGN with galaxy interactions
         time_start: '09:40'
         time_end: '09:55'
       - name: Observing AGN fuelling via molecular absorption lines
         time_start: '09:55'
         time_end: '10:10'
-      - name: The link between circumnuclear molecular gas reservoirs, millimetre continua and active galactic nucleus fuelling
+      - name: On the origin of radio-loudness in active galactic nuclei using far-infrared polarimetric observations
         time_start: '10:10'
         time_end: '10:25'
       - name: Flash Talks 1
@@ -41,7 +41,7 @@ days:
       - name: Mergers are the dominant trigger for high luminosity HERGs
         time_start: '11:50'
         time_end: '12:05'
-      - name: Fuelling AGN with galaxy interactions
+      - name: The link between circumnuclear molecular gas reservoirs, millimetre continua and active galactic nucleus fuelling
         time_start: '12:05'
         time_end: '12:20'
       - name: Discussion
@@ -53,7 +53,7 @@ days:
       - name: Studying the link between radio galaxies and AGN fuelling with relativistic hydrodynamic simulations of flickering jets
         time_start: '15:00'
         time_end: '15:15'
-      - name: AGN on the Beach of X-ray Polarimetry
+      - name: The z=6.18 radio quasar CFHQS J142952+544717 under Chandra X-ray lens
         time_start: '15:15'
         time_end: '15:30'
       - name: Regular cofee break
@@ -68,7 +68,7 @@ days:
       - name: The X-ray obscuration and the origin of the high-energy emission in young radio sources
         time_start: '16:30'
         time_end: '16:45'
-      - name: The z=6.18 radio quasar CFHQS J142952+544717 under Chandra X-ray lens
+      - name: AGN on the Beach of X-ray Polarimetry
         time_start: '16:45'
         time_end: '17:00'
       - name: Discussion
@@ -148,12 +148,9 @@ days:
       - name: The impact of AGN activity in nearby Seyfert galaxies; high resolution study of the multiphase ISM
         time_start: '16:45'
         time_end: '17:00'
-      - name: Optical/radio view of large-scale galactic AGN-driven outflows
-        time_start: '17:00'
-        time_end: '17:15'
       - name: Discussion
-        time_start: '17:15'
-        time_end: '18:00'
+        time_start: '17:00'
+        time_end: '17:45'
       - name: Social Dinner ("Le Mura" Restaurant)
         time_start: '20:00'
         time_end: '22:00'
