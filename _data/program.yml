@@ -14,6 +14,9 @@ days:
   rooms:
   - name: Palazzo Santa Chiara
     talks:
+      - name: Registration
+        time_start: '08:30'
+        time_end: '09:00'
       - name: Intro
         time_start: '09:00'
         time_end: '09:10'
