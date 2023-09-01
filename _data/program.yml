@@ -266,7 +266,7 @@ days:
       - name: Discussion
         time_start: '16:15'
         time_end: '17:00'
-      - name: Aperitif at sunset on the Beach (location TBD)
+      - name: Aperitif at sunset on the Beach
         time_start: '18:00'
         time_end: '20:00'
   - name: Tropea
