@@ -34,14 +34,14 @@ A second option will be a tour by land to Pizzo Calabro, a picturesque and histo
 <b>Date</b>: Wednesday, 13th September 2023<br>
 <b>Time</b>: TBC<br>
 <b>Meeting point</b>: TBC<br>
-<b>Price</b>: 35 euro per person
+<b>Price</b>: 35 euros per person
 
 
 <b>Aperitif at sunset on the Beach</b><br>
 
-On Thursday we will offer an aperitif at sunset on the beach for those who wish to partake, to really make the conference live up to its name! 
+On Thursday we will offer an aperitif at sunset on the beach at the “Blanca Beach” lido for those who wish to partake, to really make the conference live up to its name!   
 
 <b>Date</b>: Thursday, 14th September 2023<br>
 <b>Time</b>: From about 18:00 to 20:00<br>
-<b>Meeting point</b>: TBC<br>
-<b>Price</b>: TBC
+<b>Meeting point</b>: “Blanca Beach” lido<br>
+<b>Price</b>: 20 euros per person, with one alcoholic drink and a rich selection of finger food (buffet) included
