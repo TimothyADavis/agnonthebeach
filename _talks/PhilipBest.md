@@ -3,7 +3,7 @@ name: The demographics of radio-AGN activity from LoTSS and SDSS
 speakers:
   - Philip Best
 categories:
-  - RQ AGN and evolutionary studies
+  - Duty cycle
 session_start: False
 ---
 

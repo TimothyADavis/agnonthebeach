@@ -1,5 +1,5 @@
 ---
-name: Regular cofee break
+name: Regular coffee break
 categories:
   - Conference
 session_start: False

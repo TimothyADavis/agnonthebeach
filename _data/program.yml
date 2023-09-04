@@ -47,7 +47,7 @@ days:
       - name: The link between circumnuclear molecular gas reservoirs, millimetre continua and active galactic nucleus fuelling
         time_start: '12:05'
         time_end: '12:20'
-      - name: Discussion
+      - name: Discussion (Fuelling)
         time_start: '12:20'
         time_end: '13:00'
       - name: Jet power across diverse AGN populations
@@ -59,7 +59,7 @@ days:
       - name: The z=6.18 radio quasar CFHQS J142952+544717 under Chandra X-ray lens
         time_start: '15:15'
         time_end: '15:30'
-      - name: Regular cofee break
+      - name: Regular coffee break
         time_start: '15:30'
         time_end: '16:00'
       - name: Spectacular 240 kpc double-sided relativistic jets in a spiral- hosted narrow-line Seyfert 1 galaxy
@@ -74,7 +74,7 @@ days:
       - name: AGN on the Beach of X-ray Polarimetry
         time_start: '16:45'
         time_end: '17:00'
-      - name: Discussion
+      - name: Discussion (Jet formation and physics)
         time_start: '17:00'
         time_end: '17:40'
   - name: Tropea
@@ -142,7 +142,7 @@ days:
       - name: Jet-induced molecular gas excitation and turbulence in the Teacup
         time_start: '15:45'
         time_end: '16:00'
-      - name: Regular cofee break
+      - name: Regular coffee break
         time_start: '16:00'
         time_end: '16:30'
       - name: AGN feedback from compact, low-power jets and galactic ionised outflows in the Teacup QSO; Properties, interplay and effects
@@ -151,7 +151,7 @@ days:
       - name: The impact of AGN activity in nearby Seyfert galaxies; high resolution study of the multiphase ISM
         time_start: '16:45'
         time_end: '17:00'
-      - name: Discussion
+      - name: Discussion (Feedback- circumnuclear and galactic)
         time_start: '17:00'
         time_end: '17:45'
       - name: Social Dinner ("Le Mura" Restaurant)
@@ -198,7 +198,7 @@ days:
       - name: The demographics of radio-AGN activity from LoTSS and SDSS
         time_start: '12:20'
         time_end: '12:35'
-      - name: Discussion
+      - name: Discussion (Duty cycle)
         time_start: '12:35'
         time_end: '13:15'
   - name: Tropea
@@ -227,7 +227,7 @@ days:
       - name: Zooming into the Monster's Mouth; Tracing Feedback from Their Hosts to Circumgalactic Medium in z=3.5 Radio-loud AGN
         time_start: '10:45'
         time_end: '11:00'
-      - name: Regular cofee break
+      - name: Regular coffee break
         time_start: '11:00'
         time_end: '11:30'
       - name: Investigating how feedback is onset; young radio galaxies at the center of cool core clusters
@@ -254,7 +254,7 @@ days:
       - name: What can bent-jet radio galaxies teach us about their environment?
         time_start: '15:00'
         time_end: '15:15'
-      - name: Regular cofee break
+      - name: Regular coffee break
         time_start: '15:15'
         time_end: '15:45'
       - name: Probing the impact of AGN feedback on gas distribution with SIMBA and IllustrisTNG simulations
@@ -263,7 +263,7 @@ days:
       - name: The enrichment of "fossil" radio electrons by multiple radio galaxies in clusters and in the cosmic web
         time_start: '16:00'
         time_end: '16:15'
-      - name: Discussion
+      - name: Discussion (Large scale feedback)
         time_start: '16:15'
         time_end: '17:00'
       - name: Aperitif at sunset on the Beach
@@ -292,7 +292,7 @@ days:
       - name: Linking [OIII] outflows in AGN to low-frequency radio emission; new observations with LOFAR VLBI
         time_start: '10:15'
         time_end: '10:30'
-      - name: Regular cofee break
+      - name: Regular coffee break
         time_start: '10:30'
         time_end: '11:00'
       - name: Black hole mass growth across cosmic time; Insights from the VLA-COSMOS survey
@@ -307,7 +307,7 @@ days:
       - name: Cosmic evolution of jet-mode AGN feedback; discovery of a dominant new population at high-z
         time_start: '11:45'
         time_end: '12:00'
-      - name: Discussion
+      - name: Discussion (RQ AGN and evolutionary studies)
         time_start: '12:00'
         time_end: '12:40'
       - name: Concluding Remarks
