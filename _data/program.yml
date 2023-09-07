@@ -124,13 +124,10 @@ days:
       - name: Feedback on ionised gas over the radio AGN life-cycle
         time_start: '12:40'
         time_end: '12:55'
-      - name: Signatures of jet-cloud interaction in radio-loud AGNs from MALS Data Release I (DR1) sample
-        time_start: '12:55'
-        time_end: '13:10'
       - name: Jet-ISM interaction on galactic scales (positive vs negative feedback
         time_start: '14:30'
         time_end: '15:00'
-      - name: How do outflows from the AGN affect the star formation activity inside the host galaxy?
+      - name: Signatures of jet-cloud interaction in radio-loud AGNs from MALS Data Release I (DR1) sample
         time_start: '15:00'
         time_end: '15:15'
       - name: Jet-driven star formation in kpc-scale infant radio sources
@@ -160,7 +157,7 @@ days:
   - name: Tropea
     talks:
       - name: Lunch
-        time_start: '13:10'
+        time_start: '12:55'
         time_end: '14:30'
 - name: Wednesday
   abbr: We
