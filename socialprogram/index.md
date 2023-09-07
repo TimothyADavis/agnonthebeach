@@ -7,11 +7,11 @@ image: AOB_banner.jpg
 
 <b>Welcome Reception</b><br>
 
-A Welcome Reception is planned on the evening of Sunday, 10th September. This provides an excellent opportunity to network, meet old friends and colleagues, as well as new people, before the workshop will officially begin. The event will be held at the conference venue ([Palazzo Santa Chiara](/rooms/Palazzo-Santa-Chiara/)).
+A Welcome Reception is planned on the evening of Sunday, 10th September. This provides an excellent opportunity to network, meet old friends and colleagues, as well as new people, before the workshop officially begins. 
 
 <b>Date</b>: Sunday, 10th September 2023<br>
 <b>Time</b>: From about 18:00 to 20:30<br>
-<b>Place</b>: [Palazzo Santa Chiara](/rooms/Palazzo-Santa-Chiara/)<br>
+<b>Place</b>: [Largo Migliarese 4 (next to Bar Carbone)](https://goo.gl/maps/y7WELiEQTMURxDh47)<br>
 <b>Price</b>: Included in the conference fee for registered participants. 
 
 <b>Conference Dinner</b><br>

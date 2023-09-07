@@ -1,6 +1,6 @@
 ---
-name: Emily Escott
-first_name: Emily
+name: Emmy Escott
+first_name: Emmy
 last_name: Escott
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: Linking [OIII] outflows in AGN to low-frequency radio emission; new observations with LOFAR VLBI
 speakers:
-  - Emily Escott
+  - Emmy Escott
 categories:
   - RQ AGN and evolutionary studies
 session_start: False
