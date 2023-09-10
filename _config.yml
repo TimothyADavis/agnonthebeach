@@ -69,7 +69,7 @@ conference:
           name: AGN on the Beach
           img:  AGNOTB_logo_version_B.jpg	  
   # Show theme errors:
-  show_errors: True
+  show_errors: False
   # Navigation bar
   navigation:
     # logo:
@@ -155,7 +155,7 @@ conference:
     timezone: GMT+1
     stop:       240  # in minutes
     streaming:
-      enable: false
+      enable: False
       pause:     60  # in minutes
       prepend:    5  # in minutes
       extend:     5  # in minutes
