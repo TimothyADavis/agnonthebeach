@@ -106,27 +106,27 @@ days:
       - name: Long poster break
         time_start: '10:45'
         time_end: '11:25'
-      - name: Evidence of Jet induced shocked ionized outflow at pc scale
+      - name: Jet-ISM interaction on galactic scales (positive vs negative feedback
         time_start: '11:25'
-        time_end: '11:40'
-      - name: Jet-ISM interaction revealed by JWST/MIRI spectroscopy
-        time_start: '11:40'
         time_end: '11:55'
-      - name: Elucidating the impact of galaxy substructure on black hole growth and AGN feedback
+      - name: Evidence of Jet induced shocked ionized outflow at pc scale
         time_start: '11:55'
         time_end: '12:10'
-      - name: Quasar winds modify the distribution of cold molecular gas and young stellar populations in the central kiloparsec of galaxies
+      - name: Jet-ISM interaction revealed by JWST/MIRI spectroscopy
         time_start: '12:10'
         time_end: '12:25'
-      - name: Extended forbidden high-ionisation gas as a signature of jet-driven outflows in AGN
+      - name: Elucidating the impact of galaxy substructure on black hole growth and AGN feedback
         time_start: '12:25'
         time_end: '12:40'
-      - name: Feedback on ionised gas over the radio AGN life-cycle
+      - name: Quasar winds modify the distribution of cold molecular gas and young stellar populations in the central kiloparsec of galaxies
         time_start: '12:40'
         time_end: '12:55'
-      - name: Jet-ISM interaction on galactic scales (positive vs negative feedback
+      - name: Extended forbidden high-ionisation gas as a signature of jet-driven outflows in AGN
         time_start: '14:30'
-        time_end: '15:00'
+        time_end: '14:45'
+      - name: Feedback on ionised gas over the radio AGN life-cycle
+        time_start: '14:45'
+        time_end: '15:00'		
       - name: Signatures of jet-cloud interaction in radio-loud AGNs from MALS Data Release I (DR1) sample
         time_start: '15:00'
         time_end: '15:15'
@@ -195,13 +195,16 @@ days:
       - name: The demographics of radio-AGN activity from LoTSS and SDSS
         time_start: '12:20'
         time_end: '12:35'
+	  - name: University of Calabria and astrophysics research in the largest campus of South Italy
+	  	time_start: '12:35'
+		time_end: '12:45'
       - name: Discussion (Duty cycle)
-        time_start: '12:35'
-        time_end: '13:15'
+        time_start: '12:45'
+        time_end: '13:25'
   - name: Tropea
     talks:
       - name: Free afternoon (excursions)
-        time_start: '13:15'
+        time_start: '13:25'
         time_end: '17:00'
 - name: Thursday
   abbr: Th
