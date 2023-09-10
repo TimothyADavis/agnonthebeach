@@ -195,9 +195,9 @@ days:
       - name: The demographics of radio-AGN activity from LoTSS and SDSS
         time_start: '12:20'
         time_end: '12:35'
-	  - name: University of Calabria and astrophysics research in the largest campus of South Italy
-	  	time_start: '12:35'
-		time_end: '12:45'
+      - name: University of Calabria and astrophysics research in the largest campus of South Italy
+        time_start: '12:35'
+        time_end: '12:45'
       - name: Discussion (Duty cycle)
         time_start: '12:45'
         time_end: '13:25'
