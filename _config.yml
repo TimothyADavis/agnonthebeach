@@ -152,7 +152,7 @@ conference:
   # Live indications
   live:
     # date: 10.01.2020
-    timezone: GMT+1
+    timezone: GMT+2
     stop:       240  # in minutes
     streaming:
       enable: False
