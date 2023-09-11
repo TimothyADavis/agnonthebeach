@@ -1,3 +1,4 @@
+timezone: GMT+2
 days:
 - name: Sunday
   abbr: Su
