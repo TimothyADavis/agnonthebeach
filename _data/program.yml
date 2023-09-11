@@ -1,7 +1,9 @@
+timezone: CEST
 days:
 - name: Sunday
   abbr: Su
   date: 2023-09-10
+  timezone: GMT+2
   rooms:
   - name: Palazzo Santa Chiara
     talks:
@@ -11,6 +13,7 @@ days:
 - name: Monday
   abbr: Mo
   date: 2023-09-11
+  timezone: CEST
   rooms:
   - name: Palazzo Santa Chiara
     talks:
@@ -85,6 +88,7 @@ days:
 - name: Tuesday
   abbr: Tu
   date: 2023-09-12
+  timezone: CEST
   rooms:
   - name: Palazzo Santa Chiara
     talks:
@@ -162,6 +166,7 @@ days:
 - name: Wednesday
   abbr: We
   date: 2023-09-13
+  timezone: CEST
   rooms:
   - name: Palazzo Santa Chiara
     talks:
@@ -209,6 +214,7 @@ days:
 - name: Thursday
   abbr: Th
   date: 2023-09-14
+  timezone: CEST
   rooms:
   - name: Palazzo Santa Chiara
     talks:
@@ -277,6 +283,7 @@ days:
 - name: Friday
   abbr: Fr
   date: 2023-09-15
+  timezone: CEST
   rooms:
   - name: Palazzo Santa Chiara
     talks:
