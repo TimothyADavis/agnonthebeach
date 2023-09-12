@@ -3,7 +3,7 @@ name: Discussion (Feedback- circumnuclear and galactic)
 categories:
   - Feedback (circumnuclear and galactic scales)
 speakers:
-  - Nicole Nesvadba
+  - Cristina Ramos Almeida
   - Rebecca Smethurst
 session_start: False
 ---
